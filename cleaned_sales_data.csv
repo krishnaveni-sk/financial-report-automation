@@ -1,0 +1,5 @@
+Customer_ID,Customer_Name,Region,Amount,Date
+1,Amit,South,5000.0,2024-01-02
+2,Ravi,North,7000.0,2024-01-03
+3,Sita,South,0.0,2024-01-05
+4,John,West,6500.0,2024-01-07
